@@ -6,6 +6,6 @@ Data Provider: สำนักงานสถิติแห่งชาติ
 
 ## List of files
 
-* Raw data with aggregated rows removed: [average-income-41-58-by-provinces.ods], [average-income-41-58-by-provinces.xlsx], [average-income-41-58-by-provinces.csv]
+* Raw data with aggregated rows removed: [average-income-41-58-by-provinces.ods](average-income-41-58-by-provinces.ods), [average-income-41-58-by-provinces.xlsx](average-income-41-58-by-provinces.xlsx), [average-income-41-58-by-provinces.csv](average-income-41-58-by-provinces.csv)
 
 
