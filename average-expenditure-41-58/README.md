@@ -8,5 +8,5 @@ Data Provider: สำนักงานสถิติแห่งชาติ
 
 ## List of files
 
-* Raw data with aggregated rows removed: [average-expenditure-41-58.ods](average-expenditure-41-58.ods), [average-expenditure-41-58.xlsx](average-expenditure-41-58.xlsx), [average-expenditure-41-58.csv](average-expenditure-41-58.csv)
+* Raw data with aggregated rows removed: average-expenditure-41-58.ods, average-expenditure-41-58.xlsx, average-expenditure-41-58.csv
 
