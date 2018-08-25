@@ -1,0 +1,9 @@
+This repository keeps more "cleaned" versions of publicly available
+datasets.
+
+Many of the datasets are available under the [DGA Open Government License](https://data.go.th/TermsAndConditions.aspx) from [https://data.go.th/](https://data.go.th/).
+
+== Datasets ==
+
+
+
